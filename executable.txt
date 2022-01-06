@@ -1,0 +1,1 @@
+streamlit run C:\\Users\\audrey.mvogo\\Cours_Master_2\\Cours_Python_Flask_Streamit\\Devoir_Analyse_Data\\main.py
